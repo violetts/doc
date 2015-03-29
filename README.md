@@ -1,2 +1,3 @@
 # doc
-simple documentation
+simple documentation.
+Use it wisely
